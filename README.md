@@ -3,7 +3,7 @@
 ![Image](https://github.com/srqAndwr/GlobalMap/blob/main/preview/GlobalMAp.jpeg)  
 
   
-具体网站(域名备案中，静候):http://39.104.91.247:8080/GlobalMap/  
+具体网站(域名备案中，静候):http://39.104.175.34/GlobalMap/  
   
 # GlobalMap  
 Echarts+jquery的使用---  
