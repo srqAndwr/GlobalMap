@@ -3,7 +3,7 @@
 ![Image](https://github.com/srqAndwr/GlobalMap/blob/main/preview/GlobalMAp.jpeg)  
 
   
-部署效果:http://www.srq.ink/GlobalMap/  
+部署效果:http://www.srq.ink:8080/GlobalMap/  
   
 # GlobalMap  
 Echarts+jquery的使用---  
