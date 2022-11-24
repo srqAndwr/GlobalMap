@@ -1,0 +1,19 @@
+{
+  "name": "globalmap",
+  "version": "1.0.0",
+  "description": "![Image](https://github.com/srqAndwr/GlobalMap/blob/main/preview/GlobalMAp.jpeg)",
+  "main": "index.js",
+  "homepage":"https://srqAndwr.github.io/GlobalMAp/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srqAndwr/GlobalMap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srqAndwr/GlobalMap/issues"
+  }
+}
